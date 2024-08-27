@@ -78,6 +78,6 @@ print(h, type(h))
 h = f // g
 print(h)
 
-# # Modulo division
-# i = f % g
-# print(i) # returns the remainder of the division
+# Modulo division
+i = f % g
+print(i) # returns the remainder of the division
